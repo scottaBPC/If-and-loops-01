@@ -5,8 +5,8 @@
 	</head>
 	<body>
     <?php
-    $fName = "alex";
-    $sName = "scott";
+    $fName = "adam";
+    $sName = "nicholls";
     $fullname = $fName . " " . $sName;
     
     echo $fullname;
