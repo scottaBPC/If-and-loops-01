@@ -15,9 +15,8 @@
         echo "holy crap, thats a great name";
     }
     elseif
-        {
-            ($fullname == "adam nicholls") {
-            echo "thats kinda cool too";
+        ($fullname == "adam nicholls") {
+        echo "thats kinda cool too";
         }
     else
     {
